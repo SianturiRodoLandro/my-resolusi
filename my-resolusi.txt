@@ -3,4 +3,4 @@ RESOLUSI SAYA
 * Latihan Koding IONIC Framework
 * Baca Alkitab minimal 1 pasal/hari
 * Membuat sebuah WEB sederhana
-* 
+* Bangunnya cepat
